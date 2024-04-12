@@ -21,7 +21,7 @@ class Student extends Named {
 }
 ```
 
-### In the future, can initialise fields before super(...)
+### In the future, can initialize fields before super(...)
 
 ```java
 class A {
