@@ -1,4 +1,4 @@
-# flexible-constructors
+# Flexible Constructors
 
 Examples of flexible constructors ([JEP 447](https://openjdk.org/jeps/447)) and
 the more recent JEP ([Flexible constructors](https://openjdk.org/jeps/8325803)).
