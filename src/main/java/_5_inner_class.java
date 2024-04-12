@@ -22,6 +22,7 @@ void main() {
 }
 
 
+
 // _5_inner_class$A$1(int);
 //    Code:
 //       0: aload_0
